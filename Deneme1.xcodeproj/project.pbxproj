@@ -24,9 +24,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D0F385A22D5A8F0D00658263 /* Deneme1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Deneme1.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D0F385B22D5A8F0E00658263 /* Deneme1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Deneme1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		D0F385BC2D5A8F0E00658263 /* Deneme1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Deneme1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0F385A22D5A8F0D00658263 /* Deneme1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Deneme1.app; path = "/Users/macbookair/Desktop/Deneme1/build/Debug-iphoneos/Deneme1.app"; sourceTree = "<absolute>"; };
+		D0F385B22D5A8F0E00658263 /* Deneme1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = Deneme1Tests.xctest; path = "/Users/macbookair/Desktop/Deneme1/build/Debug-iphoneos/Deneme1.app/PlugIns/Deneme1Tests.xctest"; sourceTree = "<absolute>"; };
+		D0F385BC2D5A8F0E00658263 /* Deneme1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = Deneme1UITests.xctest; path = "/Users/macbookair/Desktop/Deneme1/build/Debug-iphoneos/Deneme1UITests-Runner.app/PlugIns/Deneme1UITests.xctest"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -78,18 +78,7 @@
 				D0F385A42D5A8F0D00658263 /* Deneme1 */,
 				D0F385B52D5A8F0E00658263 /* Deneme1Tests */,
 				D0F385BF2D5A8F0E00658263 /* Deneme1UITests */,
-				D0F385A32D5A8F0D00658263 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		D0F385A32D5A8F0D00658263 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				D0F385A22D5A8F0D00658263 /* Deneme1.app */,
-				D0F385B22D5A8F0E00658263 /* Deneme1Tests.xctest */,
-				D0F385BC2D5A8F0E00658263 /* Deneme1UITests.xctest */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -196,7 +185,7 @@
 			mainGroup = D0F385992D5A8F0D00658263;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = D0F385A32D5A8F0D00658263 /* Products */;
+			productRefGroup = D0F385992D5A8F0D00658263;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (

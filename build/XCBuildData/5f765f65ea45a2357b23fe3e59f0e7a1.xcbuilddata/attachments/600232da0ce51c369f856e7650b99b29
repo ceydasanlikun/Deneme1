@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1UITests.build/Objects-normal/arm64/Deneme1UITests-master.dia",
+    "emit-module-dependencies" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1UITests.build/Objects-normal/arm64/Deneme1UITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1UITests.build/Objects-normal/arm64/Deneme1UITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1UITests.build/Objects-normal/arm64/Deneme1UITests-master.swiftdeps"
+  },
+  "/Users/macbookair/Desktop/Deneme1/Deneme1UITests/Deneme1UITests.swift" : {
+    "const-values" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1UITests.build/Objects-normal/arm64/Deneme1UITests.swiftconstvalues",
+    "dependencies" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1UITests.build/Objects-normal/arm64/Deneme1UITests.d",
+    "diagnostics" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1UITests.build/Objects-normal/arm64/Deneme1UITests.dia",
+    "index-unit-output-path" : "/Deneme1.build/Debug-iphonesimulator/Deneme1UITests.build/Objects-normal/arm64/Deneme1UITests.o",
+    "llvm-bc" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1UITests.build/Objects-normal/arm64/Deneme1UITests.bc",
+    "object" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1UITests.build/Objects-normal/arm64/Deneme1UITests.o",
+    "swift-dependencies" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1UITests.build/Objects-normal/arm64/Deneme1UITests.swiftdeps",
+    "swiftmodule" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1UITests.build/Objects-normal/arm64/Deneme1UITests~partial.swiftmodule"
+  },
+  "/Users/macbookair/Desktop/Deneme1/Deneme1UITests/Deneme1UITestsLaunchTests.swift" : {
+    "const-values" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1UITests.build/Objects-normal/arm64/Deneme1UITestsLaunchTests.swiftconstvalues",
+    "dependencies" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1UITests.build/Objects-normal/arm64/Deneme1UITestsLaunchTests.d",
+    "diagnostics" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1UITests.build/Objects-normal/arm64/Deneme1UITestsLaunchTests.dia",
+    "index-unit-output-path" : "/Deneme1.build/Debug-iphonesimulator/Deneme1UITests.build/Objects-normal/arm64/Deneme1UITestsLaunchTests.o",
+    "llvm-bc" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1UITests.build/Objects-normal/arm64/Deneme1UITestsLaunchTests.bc",
+    "object" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1UITests.build/Objects-normal/arm64/Deneme1UITestsLaunchTests.o",
+    "swift-dependencies" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1UITests.build/Objects-normal/arm64/Deneme1UITestsLaunchTests.swiftdeps",
+    "swiftmodule" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1UITests.build/Objects-normal/arm64/Deneme1UITestsLaunchTests~partial.swiftmodule"
+  }
+}

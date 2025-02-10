@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1Tests.build/Objects-normal/arm64/Deneme1Tests-master.dia",
+    "emit-module-dependencies" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1Tests.build/Objects-normal/arm64/Deneme1Tests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1Tests.build/Objects-normal/arm64/Deneme1Tests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1Tests.build/Objects-normal/arm64/Deneme1Tests-master.swiftdeps"
+  },
+  "/Users/macbookair/Desktop/Deneme1/Deneme1Tests/Deneme1Tests.swift" : {
+    "const-values" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1Tests.build/Objects-normal/arm64/Deneme1Tests.swiftconstvalues",
+    "dependencies" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1Tests.build/Objects-normal/arm64/Deneme1Tests.d",
+    "diagnostics" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1Tests.build/Objects-normal/arm64/Deneme1Tests.dia",
+    "index-unit-output-path" : "/Deneme1.build/Debug-iphonesimulator/Deneme1Tests.build/Objects-normal/arm64/Deneme1Tests.o",
+    "llvm-bc" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1Tests.build/Objects-normal/arm64/Deneme1Tests.bc",
+    "object" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1Tests.build/Objects-normal/arm64/Deneme1Tests.o",
+    "swift-dependencies" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1Tests.build/Objects-normal/arm64/Deneme1Tests.swiftdeps",
+    "swiftmodule" : "/Users/macbookair/Desktop/Deneme1/build/Deneme1.build/Debug-iphonesimulator/Deneme1Tests.build/Objects-normal/arm64/Deneme1Tests~partial.swiftmodule"
+  }
+}
